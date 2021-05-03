@@ -24,6 +24,10 @@ use your branches carefully
 ```bash
 git checkout origin <your branch>
 ```
+**Or**you can easily create and switch to new branch by
+```bash
+git checkout -b <your branch>
+```
 before going to sleep commit your changes
 ```bash
 git add .
